@@ -3,7 +3,7 @@
  * @package Dusk_To_Dawn
  */
 ?>
-<div class="secondary widget-area" role="complementary">
+<div id="secondary" class="widget-area" role="complementary">
 	<?php do_action( 'before_sidebar' ); ?>
 
 	<a id="logo" href="http://www.furtheralong.de"><img src="<?php echo get_theme_mod('logo'); ?>"></img></a>
@@ -37,4 +37,4 @@
 		</aside>
 
 	<?php endif; // end sidebar widget area ?>
-</div><!-- .secondary .widget-area -->
+</div><!-- #secondary .widget-area -->

@@ -4,8 +4,8 @@
  */
 get_header(); ?>
 
-<div class="primary">
-	<div class="content clear-fix" role="main">
+<div id="primary">
+	<div id="content" class="clear-fix" role="main">
 
 	<?php if (is_home()) : the_post();
 		$page = get_page_by_title("home");
@@ -24,8 +24,8 @@ get_header(); ?>
 
 	<?php dusktodawn_content_nav( 'nav-below' ); ?>
 
-	</div><!-- .content -->
-</div><!-- .primary -->
+	</div><!-- #content -->
+</div><!-- #primary -->
 
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>
