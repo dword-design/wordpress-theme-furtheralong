@@ -1,0 +1,99 @@
+@import url("../dusk-to-dawn/style.css");
+
+.wrapper {
+  background: transparent;
+}
+
+.header-image {
+  height: 367px;
+}
+
+.main .widget-area {
+  padding-top: 30px;
+}
+
+.logo img {
+  width: 130px;
+  margin-bottom: 10px;
+  margin-left: 17px;
+}
+
+.page {
+  padding-top: 10px;
+}
+
+.branding {
+  display: none;
+}
+
+.access {
+  margin-bottom: 10px;
+}
+
+.secondary.widget-area {
+  padding-top: 10px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+h1.widget-title {
+  margin-bottom: 0;
+}
+
+.access li a {
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.ivycat-post {
+  padding-top: 10px;
+
+  & .entry-title {
+    float: left;
+  }
+
+  & .entry-date {
+    float: right;
+  }
+
+  & .entry-content {
+    padding-left: 0;
+  }
+}
+
+footer.colophon {
+  display: none;
+}
+
+article.page .entry-header {
+  margin-bottom: 20px;
+  padding-top: 30px;
+}
+
+article.hentry {
+  padding-bottom: 0;
+}
+
+article.post .entry-header {
+  margin-bottom: 20px;
+  border: none;
+}
+
+article.post .entry-title {
+  margin-bottom: 0;
+}
+
+article.post .entry-meta {
+  margin-bottom: 10px;
+  padding-top: 20px;
+}
+
+.post-edit-link {
+  display: none;
+}
+
+#dp_swf_engine {
+  display: none;
+}
