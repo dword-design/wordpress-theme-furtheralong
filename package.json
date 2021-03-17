@@ -3,6 +3,7 @@
   "version": "1.0.4",
   "description": "",
   "repository": "dword-design/wordpress-theme-furtheralong",
+  "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@dword-design.de>",
   "files": [
@@ -24,5 +25,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "baseConfig": "@dword-design/wordpress-theme"
+  "baseConfig": {
+    "name": "@dword-design/wordpress-theme",
+    "codecovGraphToken": "BTEX1NYK97"
+  }
 }
