@@ -24,5 +24,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "baseConfig": "@dword-design/wordpress-theme"
+  "baseConfig": {
+    "name": "@dword-design/wordpress-theme",
+    "codecovGraphToken": "BTEX1NYK97"
+  }
 }
