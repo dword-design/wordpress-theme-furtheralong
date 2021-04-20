@@ -1,7 +1,7 @@
 {
   "name": "wordpress-theme-furtheralong",
   "version": "1.0.8",
-  "description": "",
+  "description": null,
   "repository": "dword-design/wordpress-theme-furtheralong",
   "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
@@ -28,5 +28,7 @@
   "baseConfig": {
     "name": "@dword-design/wordpress-theme",
     "codecovGraphToken": "BTEX1NYK97"
-  }
+  },
+  "homepage": null,
+  "keywords": []
 }
