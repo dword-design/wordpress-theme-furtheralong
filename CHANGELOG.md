@@ -1,3 +1,11 @@
+## [1.0.9](https://github.com/dword-design/wordpress-theme-furtheralong/compare/v1.0.8...v1.0.9) (2021-04-21)
+
+
+### Bug Fixes
+
+* update config files ([f4aa0ed](https://github.com/dword-design/wordpress-theme-furtheralong/commit/f4aa0ed2a4f213c000f1aeef954c335ffecb8038))
+* updated package.json[description] ([#16](https://github.com/dword-design/wordpress-theme-furtheralong/issues/16)) ([161d006](https://github.com/dword-design/wordpress-theme-furtheralong/commit/161d006c522d406238e0fcca2885c50785113a90))
+
 ## [1.0.8](https://github.com/dword-design/wordpress-theme-furtheralong/compare/v1.0.7...v1.0.8) (2021-04-12)
 
 
