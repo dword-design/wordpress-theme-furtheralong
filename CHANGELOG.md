@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/dword-design/wordpress-theme-furtheralong/compare/v1.0.12...v1.0.13) (2021-05-28)
+
+
+### Bug Fixes
+
+* update config files ([c6380e3](https://github.com/dword-design/wordpress-theme-furtheralong/commit/c6380e3f63235c7fa557c4ca45cadfcd4ce0e06d))
+
 ## [1.0.12](https://github.com/dword-design/wordpress-theme-furtheralong/compare/v1.0.11...v1.0.12) (2021-05-03)
 
 
