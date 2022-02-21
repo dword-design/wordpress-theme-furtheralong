@@ -1,3 +1,10 @@
+## [1.0.51](https://github.com/dword-design/wordpress-theme-furtheralong/compare/v1.0.50...v1.0.51) (2022-02-21)
+
+
+### Bug Fixes
+
+* lock file maintenance ([03637fc](https://github.com/dword-design/wordpress-theme-furtheralong/commit/03637fc96b2b439ed22b11a92f3aa19c60c820a5))
+
 ## [1.0.50](https://github.com/dword-design/wordpress-theme-furtheralong/compare/v1.0.49...v1.0.50) (2022-02-14)
 
 
